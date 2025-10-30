@@ -8,10 +8,10 @@ Este repositorio contiene las actividades, ejercicios y proyectos de las primera
 
 ### Unidad 1: Introducción a Java, Operadores y Conversión de Tipo
 * **Tarea:** Expresiones Algorítmicas y Casting
-* **Enlace:** [Ver Documentación y Código](U1_Operadores_y_Casting/)
+* **Enlace:** [Ver Documentación y Código] https://github.com/Mariaromeroruiz/Ejercicios_Programacion_DAW/tree/main/U1_Expresiones_y_Casting
 
 ### Unidad 2: Manipulación de Cadenas y Entrada de Usuario (Scanner)
 * **Tarea:** Uso de Cadenas de Caracteres y Operador Ternario
-* **Enlace:** [Ver Documentación y Código](U2_Cadenas_y_Concatenacion/)
+* **Enlace:** [Ver Documentación y Código] https://github.com/Mariaromeroruiz/Ejercicios_Programacion_DAW/tree/main/U2_Cadenas_y_Concatenacion
 
 ---
