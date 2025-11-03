@@ -13,5 +13,8 @@ Este repositorio contiene las actividades, ejercicios y proyectos de las primera
 ### Unidad 2: Manipulación de Cadenas y Entrada de Usuario (Scanner)
 * **Tarea:** Uso de Cadenas de Caracteres y Operador Ternario
 * **Enlace:** [Ver Documentación y Código] https://github.com/Mariaromeroruiz/Ejercicios_Programacion_DAW/tree/main/U2_Cadenas_y_Concatenacion
+### Unidad 3: Estructuras Condicionales y Operadores Lógicos
+* **Tarea:** Clasificador de Becas con if-else y operador AND (&&)
+* **Enlace:** [Ver Documentación y Código] https://github.com/Mariaromeroruiz/Ejercicios_Programacion_DAW/blob/main/ClasificadorBecas.java
 
----
+
