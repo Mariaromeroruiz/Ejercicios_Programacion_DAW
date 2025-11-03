@@ -2,7 +2,7 @@
 
 **Tarea: Clasificador de Becas (Lógica Condicional Avanzada)**
 
-Enlace: [Ver Documentación y Código] 
+Enlace: [Ver Documentación y Código] https://github.com/Mariaromeroruiz/Ejercicios_Programacion_DAW/new/main/U3_Condicionales
 
 Este proyecto simula un sistema de evaluación de solicitudes de beca demostrando el dominio de las estructuras condicionales en Java (if-else if-else) aplicadas a la toma de decisiones complejas.
 
